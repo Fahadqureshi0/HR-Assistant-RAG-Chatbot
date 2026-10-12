@@ -1,0 +1,6 @@
+
+.env
+env/
+__pycache__/
+Backend/vector_store/
+Backend/question_log.jsonl
